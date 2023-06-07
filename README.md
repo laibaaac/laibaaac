@@ -5,9 +5,9 @@ I am currently studying Communication & Multimedia design at the Applied Univers
 
 
 ### 📙 Languages
-‍💻 HTML 
-‍💻 CSS 
-‍💻 Javascript
+‍*HTML 
+‍*CSS 
+‍*Javascript
 
 <!--
 **laibaaac/laibaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
