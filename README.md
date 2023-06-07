@@ -1,4 +1,13 @@
 ### Hi there 👋
+I am Laiba! 
+I am currently studying Communication & Multimedia design at the Applied University of Amsterdam. 
+
+
+
+### 📙 Languages
+- HTML 
+- CSS 
+- Javascript
 
 <!--
 **laibaaac/laibaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibaaac&show_icons=true&theme=dracula)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibaaac&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibaaac&layout=compact) 
