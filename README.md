@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div id="header" align="center">
+  <img src="https://dribbble.com/shots/14393709-Girl-with-laptop" width="100"/>
+</div>
 I'm Laiba! a student studying Communication & Multimedia Design at the Applied University of Amsterdam.
 
 
@@ -33,6 +36,6 @@ Here are some ideas to get you started:
 
 
 
-
+### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laibaaac&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibaaac&layout=compact) 
