@@ -3,7 +3,6 @@ I'm Laiba! a student studying Communication & Multimedia Design at the Applied U
 
 
 💻 Currently, I'm following a minor in web development where I learn to create interactive applications with HTML, CSS, and JavaScript. Through various subjects and projects (see my github repositories),
-
 I have gained knowledge in browsers, real-time web, performance optimization, rapid prototyping, usability, documentation, version control, debugging, testing, responsive design, reactive design, micro-interactions, and working with APIs.
 
 
