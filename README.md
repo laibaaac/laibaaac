@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="https://dribbble.com/shots/14393709-Girl-with-laptop" width="100"/>
-</div>
+
 I'm Laiba! a student studying Communication & Multimedia Design at the Applied University of Amsterdam.
 
 
