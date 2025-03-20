@@ -3,9 +3,9 @@
 I'm Laiba! 
 
 
-💻 I hold a Bachelor’s degree in Communication & Multimedia Design from the Amsterdam University of Applied Sciences, where I specialized in web development. Throughout my studies, I gained experience in front-end and back-end development, working with technologies like HTML, CSS, JavaScript, React, TypeScript, and Node.js. I developed skills in real-time web applications, performance optimization, usability, testing, and API integrations, while also exploring cloud deployment with AWS pipelines and programming in Java. 
+🎓 I hold a Bachelor’s degree in Communication & Multimedia Design from the Amsterdam University of Applied Sciences, where I specialized in web development. Throughout my studies, I gained experience in front-end and back-end development, working with technologies like HTML, CSS, JavaScript, React, TypeScript, and Node.js. I developed skills in real-time web applications, performance optimization, usability, testing, and API integrations, while also exploring cloud deployment with AWS pipelines and programming in Java. 
 
-Currently, I am pursuing a Master’s in Digital Driven Business at the Amsterdam University of Applied Sciences, expanding my expertise beyond development into Python and SQL for data-driven solutions. I work with various Python libraries for data analysis, automation, machine learning and have experience in SQL database management, optimizing queries and structuring relational databases efficiently. By combining my software engineering background with data intelligence, I aim to develop innovative solutions that bridge technology and business strategy.
+📊 Currently, I am pursuing a Master’s in Digital Driven Business at the Amsterdam University of Applied Sciences, expanding my expertise beyond development into Python and SQL for data-driven solutions. I work with various Python libraries for data analysis, automation, machine learning and have experience in SQL database management, optimizing queries and structuring relational databases efficiently. By combining my software engineering background with data intelligence, I aim to develop innovative solutions that bridge technology and business strategy.
 
 💻 Check out my GitHub repositories to see the projects I've worked on! 
 
